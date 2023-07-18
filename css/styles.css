@@ -1,0 +1,48 @@
+
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+    background-image: url('https://github.com/KodeGoBootcamp-Projects/PF-Exercise_Images/blob/main/pexels-faruk-tokluo%C4%9Flu-9196073.jpg?raw=true');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+main {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+}
+
+div {
+    background-color: aqua;
+    width: 300px;
+    margin: auto;
+}
+
+.teaNav {
+    background-color: rgba(17, 11, 17, 0.658);
+    color: rgb(255, 0, 0);
+}
+
+.teaMenu {
+    background-color: brown;
+}
+
+.teaFlavor {
+    text-align: left;
+    width: 50%;
+}
+
+.teaPrice {
+    text-align: right;
+    width: 49%;
+}
+
+.teaItem p {
+    background-color: rgba(0, 0, 0, 0.801);
+    display: inline-block;
+}
