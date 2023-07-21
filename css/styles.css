@@ -41,9 +41,10 @@ div {
     box-shadow: 6px 9px 5px 0px rgba(0,0,0,0.71);
 }
 
+
 .teaMenu {
-    background-color: rgba(17, 11, 17, 0.781);
-    color: rgb(255, 0, 0);
+    background-color: #110b11c7;
+    color: #FF7575;
     padding: 20px;
     min-width: 300px;
     
@@ -65,9 +66,14 @@ div {
 } */
 
 .teaFlavor, .teaCollection {
+    display: inline-block;
+    font-size: 16px;
+}
+
+.teaFlavor, .teaCollection {
     /* background-color: rgba(68, 68, 68, 0.459); */
     text-align: left;
-    width: 75%;
+    width: 70%;
     
 }
 
